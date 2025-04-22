@@ -39,8 +39,6 @@ print()
 
 print(listK[:])
 
-print("리리리리ㅣ리리리리리ㅣㄹ리ㅣ리릴")
-
 # 05_operator, 06_while 학습 이후
 # list 더하기
 print([1,2,3] + [4,5,6])
