@@ -7,7 +7,6 @@
     <list default="true" id="dbd2b0db-2439-4a4e-b869-5634d7160a15" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/learning_notes/20250422_2_list.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_notes/20250422_2_list.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/ch01/04_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch01/04_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "last_opened_file_path": "C:/평일파이썬/day04",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
