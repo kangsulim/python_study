@@ -13,7 +13,7 @@ print(isOpen)
 print(name.index("수",2))
 print(name.find("수"))
 
-print("이름은: {name}, 숫자: {number}, 열림: {isOpen}".format(name=name, number=number, isOpen=isOpen))
+print("이름은: {name}, 숫자: {number}, 열림: {isOpen} ".format(name=name, number=number, isOpen=isOpen))
 print(f"이름은: {name}, 숫자: {number}, 열림: {isOpen}") # f 포매팅 : 정처기에 나온 적 있음, 여기서는 변수를 넣었지만 함수 등도 사용 가능
 address = """부
 산

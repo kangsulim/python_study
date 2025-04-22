@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbd2b0db-2439-4a4e-b869-5634d7160a15" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python_study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_notes/20250422.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch01/01_print.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch01/02_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch01/03_collection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch01/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/02_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch01/02_type.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
