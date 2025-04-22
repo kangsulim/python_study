@@ -84,3 +84,49 @@ try:
     print(anyList)
 except Exception as e: # 여기에 '기분 나쁜 노란 줄'이 생긴 이유는 해당 코드가 검출 가능한 오류의 범위가 try 내에 작성한 오류 보다 너무 크기 때문이다. 여기서는 IndexError로 수정하면 기분 나쁜 노란 줄이 사라지지만 일단 놔둠.
     print("해당 리스트의 범위를 초과한 참조이다.")
+
+anyList = [1,2,3]
+
+anyList.append(4)
+anyList.append([5, 6])
+
+print(anyList)
+
+anyList = [1,5,2,3,4]
+# anyList.sort() # 원본의 내용 수정
+# copyAnyList = anyList.copy()    # 기존 리스트를 copy() 해서 다른 리스트에 저장
+copyAnyList = anyList[:] # 이렇게 해도 마찬가지
+copyAnyList.sort()
+copyAnyList.reverse()
+print(anyList)
+print(copyAnyList)
+
+print([1,2,3,4,5] == [1,2,3,4,5])
+print([1,2,3,4,5] == [1,2,4,3,5])
+
+anyList = [1,2,3,4,5]
+anyList2 = [1,2,3,4,5]
+print(anyList == anyList2)
+print(id(anyList) == id(anyList2))
+print(id(anyList), id(anyList2))
+
+anyList2 = anyList
+print(anyList == anyList2)
+print(id(anyList) == id(anyList2))
+print(id(anyList), id(anyList2))
+print()
+
+anyList = [1,2,3]
+anyList2 = [4,5]
+print(id(anyList))
+anyList = anyList + anyList2
+print(id(anyList))
+
+anyList.extend([6,7])
+print(id(anyList))
+
+# 점프 투 자바 끝
+
+anyList.clear()
+print(anyList)
+print(id(anyList))
