@@ -91,6 +91,14 @@ anyList.append(4)
 anyList.append([5, 6])
 
 print(anyList)
+print()
+
+anyList = [1,2,3,5,8]
+print(anyList)  # [1, 2, 3, 5, 8]
+anyList.insert(3, 4) # index 3에 number data 4 삽입
+print(anyList)  # [1, 2, 3, 4, 5, 8]
+anyList.insert(5, [6,7]) # index 5에 list data [6,7] 삽입
+print(anyList)  # [1, 2, 3, 4, 5, [6, 7], 8]
 
 anyList = [1,5,2,3,4]
 # anyList.sort() # 원본의 내용 수정
@@ -124,8 +132,15 @@ print(id(anyList))
 
 anyList.extend([6,7])
 print(id(anyList))
+print()
 
-# 점프 투 자바 끝
+anyList = [0,1,2,3,4,5,6,7,8,9]
+print(anyList[::]) # [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+print(anyList[1:9:2]) # [1, 3, 5, 7]
+print(anyList[-7:-2:3]) # [3, 6]
+print()
+
+# 점프 투 파이썬 list 끝
 
 anyList.clear()
 print(anyList)
