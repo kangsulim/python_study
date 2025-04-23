@@ -71,7 +71,7 @@ for student in students:
 print(result)
 
 # 점프 투 파이썬 for문 중
-# 컴프리핸션
+# 컴프리헨션
 
 a = [1,2,3,4]
 result = [num * 3 for num in a]
@@ -89,7 +89,7 @@ for x in range(2, 10):
     for y in range(1, 10):
         if y == 1:
             print(f"{x}단", end="\t\t")
-        print(f"{x} X {y} = {x*y}", end="\t") if (y != 9) else print(f"{x} X {y} = {x*y}")
+        print(f"{x} X {y} = {x*y}", end="\t" if y != 9 else "\n")
 # 3항 연산자 형태
 # a if 조건 else b
 

@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbd2b0db-2439-4a4e-b869-5634d7160a15" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/ch01/tour_example.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/20250423_5_func.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch03/01_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_notes/20250423_1_dict.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_notes/20250423_1_dict.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/ch02/02_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch02/02_for.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01_function.executor": "Run",
     "Python.02_for.executor": "Run",
     "Python.03_.executor": "Run",
     "Python.04_list.executor": "Run",
@@ -58,6 +61,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\rkdtnfla1\python_study\src\main\ch03" />
       <recent name="C:\rkdtnfla1\python_study\src\main" />
       <recent name="C:\rkdtnfla1\python_study\src" />
     </key>
