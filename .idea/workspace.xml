@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbd2b0db-2439-4a4e-b869-5634d7160a15" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/learning_notes/20250423_5_func.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch03/01_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/20250424_1_func2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/20250424_2_func3,4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch03/02_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch03/03_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch03/04_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch03/05_input.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_notes/20250423_1_dict.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_notes/20250423_1_dict.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/ch02/02_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch02/02_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_notes/20250423_5_func.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_notes/20250423_5_func1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +44,13 @@
   "keyToString": {
     "Python.01_function.executor": "Run",
     "Python.02_for.executor": "Run",
+    "Python.02_punction.executor": "Run",
     "Python.03_.executor": "Run",
+    "Python.03_function.executor": "Run",
+    "Python.03_function3.executor": "Run",
+    "Python.04_function.executor": "Run",
     "Python.04_list.executor": "Run",
+    "Python.05_input.executor": "Run",
     "Python.05_operator.executor": "Run",
     "Python.06_while.executor": "Run",
     "Python.07_tuple.executor": "Run",
