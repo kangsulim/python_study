@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbd2b0db-2439-4a4e-b869-5634d7160a15" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_notes/20250424_1_func2.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_notes/20250424_1_func2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_notes/20250424_2_func3,4.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_notes/20250424_2_func3,4.md" afterDir="false" />
-    </list>
+    <list default="true" id="dbd2b0db-2439-4a4e-b869-5634d7160a15" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
