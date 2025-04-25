@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbd2b0db-2439-4a4e-b869-5634d7160a15" name="변경" comment="" />
+    <list default="true" id="dbd2b0db-2439-4a4e-b869-5634d7160a15" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/learning_notes/20250425_1_class.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/20250425_2_module.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/20250425_3_exception.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch05/class01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch05/class02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch05/class03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/module01_1_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/module01_2_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/module01_3_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/module01_4_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch07/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch07/exception01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,10 +49,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01_1_module.executor": "Run",
+    "Python.01_class.executor": "Run",
     "Python.01_function.executor": "Run",
+    "Python.02_class.executor": "Run",
     "Python.02_for.executor": "Run",
     "Python.02_punction.executor": "Run",
     "Python.03_.executor": "Run",
+    "Python.03_class.executor": "Run",
     "Python.03_function.executor": "Run",
     "Python.03_function3.executor": "Run",
     "Python.04_function.executor": "Run",
@@ -47,8 +67,14 @@
     "Python.07_tuple.executor": "Run",
     "Python.08_dict.executor": "Run",
     "Python.09_set.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.exception01.executor": "Run",
     "Python.if.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.module01_1_.executor": "Run",
+    "Python.module01_2_.executor": "Run",
+    "Python.module01_3_.executor": "Run",
+    "Python.module01_4_.executor": "Run",
     "Python.print.executor": "Run",
     "Python.type.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
